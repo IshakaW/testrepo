@@ -141,9 +141,7 @@ pyreadline==2.1
 pystan==2.19.1.1
 pytest==6.2.4
 
-pywin32==228
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
+
 PyYAML==5.4.1
 
 QDarkStyle==2.8.1
