@@ -159,7 +159,7 @@ sentencepiece==0.1.95
 setuptools-git==1.2
 simplegeneric==0.8.1
 
-sip==4.19.13
+sip==5.0.0
 
 smart-open==4.1.2
 
